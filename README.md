@@ -14,13 +14,14 @@ de [Platzi](https://platzi.com/js)
 
 ## instrucciones de installación
 
-'''
+```
 npm install platzom
-'''
+```
 
 ## Uso
 
-'''
+
+```
 import platzom from 'plazom'
 
 platzom("Programar") // Program
@@ -28,7 +29,8 @@ platzom("Zorro") // Zorrope
 platzom("Zarpar") // Zarppe
 platzom("abecedario") // abece-dario
 platzom("sometemos") // SoMeTeMoS
-'''
+```
+
 
 ## Créditos
 
